@@ -1,0 +1,10 @@
+@font-face { 
+    font-family: "Jacquard";
+    src: url("../fonts/jacquard24-regular-webfont.woff2"),
+    url("../fonts/jacquard24-regular-webfont.woff");
+    font-style: normal;
+}
+
+h1 {
+    font-family: "Jacquard";
+}
