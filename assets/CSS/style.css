@@ -1,7 +1,7 @@
 @font-face { 
     font-family: "Jacquard";
-    src: url("../fonts/jacquard24-regular-webfont.woff2"),
-    url("../fonts/jacquard24-regular-webfont.woff");
+    src: url("../fonts/jacquard24-regular-webfont.woff2") format("woff2"),
+    url("../fonts/jacquard24-regular-webfont.woff") format('woff');
     font-style: normal;
 }
 
